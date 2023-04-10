@@ -1,13 +1,10 @@
-# quotes
 
-A new Flutter project.
-
-#Learning Topics
+# Topics
 
 - List of Data
 - Custom Classes
 - Cards
-- Extracting Widget
+- Extracting Widgets
 - Functions as Parameters
 
 ## Getting Started
