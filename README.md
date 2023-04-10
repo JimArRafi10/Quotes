@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+#Learning Topics
+
+- List of Data
+- Custom Classes
+- Cards
+- Extracting Widget
+- Functions as Parameters
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
